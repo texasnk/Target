@@ -10,3 +10,15 @@ C:\Users\rdavi\Desktop\TargetSolution\Target-4\bin\Debug\Newtonsoft.Json.xml
 C:\Users\rdavi\Desktop\TargetSolution\Target-4\obj\Debug\Target-4.csproj.CopyComplete
 C:\Users\rdavi\Desktop\TargetSolution\Target-4\obj\Debug\Target-4.exe
 C:\Users\rdavi\Desktop\TargetSolution\Target-4\obj\Debug\Target-4.pdb
+C:\Users\rdavi\Desktop\Target\Target\Target-4\bin\Debug\dados.json
+C:\Users\rdavi\Desktop\Target\Target\Target-4\bin\Debug\Target-4.exe.config
+C:\Users\rdavi\Desktop\Target\Target\Target-4\bin\Debug\Target-4.exe
+C:\Users\rdavi\Desktop\Target\Target\Target-4\bin\Debug\Target-4.pdb
+C:\Users\rdavi\Desktop\Target\Target\Target-4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rdavi\Desktop\Target\Target\Target-4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rdavi\Desktop\Target\Target\Target-4\obj\Debug\Target-4.csproj.AssemblyReference.cache
+C:\Users\rdavi\Desktop\Target\Target\Target-4\obj\Debug\Target-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\rdavi\Desktop\Target\Target\Target-4\obj\Debug\Target-4.csproj.CoreCompileInputs.cache
+C:\Users\rdavi\Desktop\Target\Target\Target-4\obj\Debug\Target-4.csproj.CopyComplete
+C:\Users\rdavi\Desktop\Target\Target\Target-4\obj\Debug\Target-4.exe
+C:\Users\rdavi\Desktop\Target\Target\Target-4\obj\Debug\Target-4.pdb
