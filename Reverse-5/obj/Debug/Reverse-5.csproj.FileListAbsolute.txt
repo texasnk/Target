@@ -1,0 +1,16 @@
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\bin\Debug\Reverse-5.exe.config
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\bin\Debug\Reverse-5.exe
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\bin\Debug\Reverse-5.pdb
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\obj\Debug\Reverse-5.csproj.AssemblyReference.cache
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\obj\Debug\Reverse-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\obj\Debug\Reverse-5.csproj.CoreCompileInputs.cache
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\obj\Debug\Reverse-5.exe
+C:\Users\rdavi\Desktop\TargetSolution\Reverse-5\obj\Debug\Reverse-5.pdb
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\bin\Debug\Reverse-5.exe.config
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\bin\Debug\Reverse-5.exe
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\bin\Debug\Reverse-5.pdb
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\obj\Debug\Reverse-5.csproj.AssemblyReference.cache
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\obj\Debug\Reverse-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\obj\Debug\Reverse-5.csproj.CoreCompileInputs.cache
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\obj\Debug\Reverse-5.exe
+C:\Users\rdavi\Desktop\Target\Target\Reverse-5\obj\Debug\Reverse-5.pdb

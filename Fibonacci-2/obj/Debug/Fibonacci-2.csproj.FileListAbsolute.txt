@@ -1,0 +1,8 @@
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\bin\Debug\Fibonacci-2.exe.config
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\bin\Debug\Fibonacci-2.exe
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\bin\Debug\Fibonacci-2.pdb
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\obj\Debug\Fibonacci-2.csproj.AssemblyReference.cache
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\obj\Debug\Fibonacci-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\obj\Debug\Fibonacci-2.csproj.CoreCompileInputs.cache
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\obj\Debug\Fibonacci-2.exe
+C:\Users\rdavi\Desktop\TargetSolution\Fibonacci-2\obj\Debug\Fibonacci-2.pdb
